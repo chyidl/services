@@ -21,7 +21,7 @@ message Response {
 // Stream returns a streaming helloworld response
 message StreamRequest {
 	string name = 1;
-        int64 messages = 2;
+	int64 messages = 2;
 }
 
 message StreamResponse {

@@ -4,7 +4,7 @@ import (
 	"context"
 
 	"github.com/micro/micro/v3/service/logger"
-	helloworld "github.com/micro/services/helloworld/proto"
+	helloworld "github.com/chyidl/services/helloworld/proto"
 )
 
 type Helloworld struct{}
